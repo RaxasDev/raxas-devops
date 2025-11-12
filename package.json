@@ -1,0 +1,22 @@
+{
+  "name": "raxas-devops",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaxasDev/raxas-devops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaxasDev/raxas-devops/issues"
+  },
+  "homepage": "https://github.com/RaxasDev/raxas-devops#readme",
+  "description": "",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
